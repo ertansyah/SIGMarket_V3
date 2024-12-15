@@ -6,7 +6,7 @@ Aplikasi ini adalah sebuah sistem berbasis WebGIS (Sistem Informasi Geografis be
 Aplikasi ini bertujuan untuk mendukung pengambilan keputusan yang lebih baik dalam perencanaan tata ruang dan pengelolaan ekonomi lokal. Selain itu, aplikasi ini juga memberikan manfaat bagi pihak pemerintah, pemilik minimarket, dan masyarakat umum yang ingin mendapatkan informasi tentang lokasi minimarket terdekat serta data pendukung lainnya.
 
 ## Teknologi yang Digunakan
-
+![XAMPP](https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp&logoColor=white)
 ![PHP 8](https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php&logoColor=white)
 ![AdminLTE](https://img.shields.io/badge/AdminLTE-3-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter-4-red?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -17,6 +17,10 @@ Aplikasi ini bertujuan untuk mendukung pengambilan keputusan yang lebih baik dal
 ![Bootstrap 4](https://img.shields.io/badge/Bootstrap-4-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Myth/Auth](https://img.shields.io/badge/Myth/Auth-Authentication-blue?style=for-the-badge&logo=key&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-2C3A2B?style=for-the-badge&logo=composer&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 ## Tools yang Diperlukan
@@ -24,19 +28,19 @@ Aplikasi ini bertujuan untuk mendukung pengambilan keputusan yang lebih baik dal
 Untuk menjalankan proyek ini, Anda memerlukan beberapa alat berikut:
 
 ### 1. XAMPP  
-![XAMPP Icon](https://i.postimg.cc/43KTcrp7/96018-xampp-icon.png =50x50)  
+![XAMPP Icon](https://img.shields.io/badge/XAMPP-black?style=for-the-badge&logo=xampp&logoColor=white)  
 XAMPP adalah perangkat lunak server lokal yang memungkinkan Anda menjalankan PHP dan MySQL.  
 
 ### 2. Visual Studio Code  
-![VS Code Icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg =50x50)  
+![VS Code Icon](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 Visual Studio Code adalah editor kode yang ringan namun kaya fitur untuk pengembangan.  
 
 ### 3. Composer  
-![Composer Icon](https://getcomposer.org/img/logo-composer-transparent5.png =50x50)  
+![Composer Icon](https://img.shields.io/badge/Composer-2C3A2B?style=for-the-badge&logo=composer&logoColor=white)  
 Composer adalah pengelola dependensi untuk PHP yang digunakan untuk mengelola pustaka proyek Anda.  
 
 ### 4. Git  
-![Git Icon](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg =50x50)  
+![Git Icon](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 Git adalah sistem kontrol versi yang membantu Anda melacak perubahan dalam kode Anda dan bekerja secara kolaboratif.  
 
 ---
@@ -45,16 +49,15 @@ Git adalah sistem kontrol versi yang membantu Anda melacak perubahan dalam kode 
 
 1. **XAMPP**: Unduh dan instal XAMPP dari [Apache Friends](https://www.apachefriends.org).  
 2. **Composer**: Unduh dan instal Composer dari [Composer](https://getcomposer.org).  
-3. **Visual Studio Code**: Unduh dan instal dari [VS Code](https://code.visualstudio.com).  
+3. **Visual Studio Code**: Unduh dan instal dari [VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white).  
 4. **Git**: Unduh dan instal Git dari [Git SCM](https://git-scm.com).  
 
 Pastikan semua alat telah diinstal sebelum melanjutkan ke langkah berikutnya dalam proyek Anda. 😊
 
 ## Installation
 
-
+clone repository : 
 ```bash
-  clone repository : 
   https://github.com/ertansyah/SIGMarket_V3.git
 ```
 ```bash
@@ -70,8 +73,8 @@ Pastikan semua alat telah diinstal sebelum melanjutkan ke langkah berikutnya dal
 ```bash
   composer update
 ```
+Jalan kan serever dengan:
 ```bash
-  Jalan kan serever dengan:
   php spark serve
 ```
 ## Default Login Credentials
