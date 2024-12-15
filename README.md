@@ -24,20 +24,21 @@ Aplikasi ini bertujuan untuk mendukung pengambilan keputusan yang lebih baik dal
 Untuk menjalankan proyek ini, Anda memerlukan beberapa alat berikut:
 
 ### 1. XAMPP  
-![XAMPP Icon](https://i.postimg.cc/43KTcrp7/96018-xampp-icon.png)  
+### 1. XAMPP  
+![XAMPP Icon](https://i.postimg.cc/43KTcrp7/96018-xampp-icon.png =50x50)  
 XAMPP adalah perangkat lunak server lokal yang memungkinkan Anda menjalankan PHP dan MySQL.  
 
 ### 2. Visual Studio Code  
-![VS Code Icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)  
+![VS Code Icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg =50x50)  
 Visual Studio Code adalah editor kode yang ringan namun kaya fitur untuk pengembangan.  
 
 ### 3. Composer  
-![Composer Icon](https://getcomposer.org/img/logo-composer-transparent5.png)  
+![Composer Icon](https://getcomposer.org/img/logo-composer-transparent5.png =50x50)  
 Composer adalah pengelola dependensi untuk PHP yang digunakan untuk mengelola pustaka proyek Anda.  
 
 ### 4. Git  
-![Git Icon](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)  
-Git adalah sistem kontrol versi yang membantu Anda melacak perubahan dalam kode Anda dan bekerja secara kolaboratif.  
+![Git Icon](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg =50x50)  
+Git adalah sistem kontrol versi yang membantu Anda melacak perubahan dalam kode Anda dan bekerja secara kolaboratif.   
 
 ---
 
@@ -71,6 +72,10 @@ Pastikan semua alat telah diinstal sebelum melanjutkan ke langkah berikutnya dal
 ```
 ```bash
   composer update
+```
+```bash
+  jalankan Serve dengan ketikan:
+  php spark serve
 ```
 ## Default Login Credentials
 
